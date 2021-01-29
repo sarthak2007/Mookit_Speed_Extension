@@ -1,0 +1,20 @@
+{
+    "name": "Mookit Speed",
+    "version": "1.0",
+    "description": "Adds shortcut to increase and decrease speed on mookit videos!",
+    "permissions": [
+        "activeTab"
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "browser_action": {
+        "default_title": "Add shortcut for changing playback rate",
+        "default_icon": "flash.png"
+    },
+    "icons": {
+        "128": "flash.png"
+    },
+    "manifest_version": 2
+}
