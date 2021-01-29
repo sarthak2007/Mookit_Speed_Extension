@@ -1,7 +1,5 @@
 # Mookit Speed Extension
 
-# Introduction
-
 Chrome Extension for adding shortcuts to change playback rate of videos on Hello IITK portal.
 
 # How to Install
